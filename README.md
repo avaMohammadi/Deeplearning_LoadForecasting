@@ -9,7 +9,7 @@ This repository contains the code and data for the paper titled "Deep Learning f
 ## Algorithms and Models
 - Long Short-Term Memory (LSTM)
 - [Deep Autoregressive (DeepAR)](https://arxiv.org/abs/1704.04110).
-- Temporal Fusion Transformer (TFT) [Link](https://arxiv.org/abs/1912.09363).
+- [Temporal Fusion Transformer (TFT)](https://arxiv.org/abs/1912.09363).
 
 ## Libraries and Tools
 - Data Analysis: pandas, numpy, statsmodels
